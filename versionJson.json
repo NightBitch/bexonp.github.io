@@ -1,5 +1,5 @@
 {
-  "apkVersion": "1.1",
-  "apkUrl": "https://bexonp.github.io/apk/ArcticCircle-1.1",
-  "upgradeInfo": "升级测试"
+  "serverVersion": "1.1",
+  "requestUrl": "https://bexonp.github.io/apk/ArcticCircle-1.1",
+  "updateMsg": "升级测试"
 }
