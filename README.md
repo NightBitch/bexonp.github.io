@@ -39,6 +39,6 @@ Head to http://localhost:4000 to see your site in action.
 Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
 
 ## License
-The copyright of the article is owned by the author.
+The copyright of the article and post is owned by the author.
 
 The copyright of the codes, please see [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
