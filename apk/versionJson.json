@@ -1,6 +1,6 @@
 {
-  "title": "更新",
-  "serverVersion": "1.0",
-  "requestUrl": "https://bexonp.github.io/apk/ArcticCircle-1.0.apk",
-  "updateMsg": "升级测试"
+  "title": "v1.1 更新",
+  "serverVersion": "1.1",
+  "requestUrl": "https://bexonp.github.io/apk/ArcticCircle-1.1.apk",
+  "updateMsg": "1.修改主题样式，更接近网页\n2.在Github上公开源码，详情看稍后的文章"
 }
