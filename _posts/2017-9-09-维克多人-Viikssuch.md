@@ -7,4 +7,4 @@ author: "Bexon"
 
 但在维克苏有一个特殊的城市--中津市，在安帕列河边，有六百平方千米的面积，他在北维长廊省的境内，但确是南维的领土，但迫于北维的压力，毕竟独立于南维，它的护照是”维客苏中津市“，由于北维政府怕北维人接中津逃到南维，并筑起一面两百多公里的城墙，对于部分北维的人来说“墙的另一端才是自由”。
 
-![image](https://bexonp.github.io/img/Viikssu_von_Kartte.png)
+![image](https://bexonp.github.io/img/Kartte_von_Viikssu.png)
