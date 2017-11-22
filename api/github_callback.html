@@ -24,6 +24,7 @@ function getQueryString(name) {
 $("#code").text('"'+getQueryString("code")+'"');
 $("#state").text('"'+getQueryString("state")+'"');
 $("#redirect_uri").text('"'+getQueryString("redirect_uri")+'"');
+window.location.href="arcticcircle://bexonp.github.io/api/github_callback?code="+getQueryString("code")+"&state="+getQueryString("state")+"&redirect_uri="+getQueryString("redirect_uri");
 </script>
 </body>
 </html>
