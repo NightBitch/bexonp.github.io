@@ -21,10 +21,13 @@ function getQueryString(name) {
     }
     return null;
 }
-$("#code").text('"'+getQueryString("code")+'"');
-$("#state").text('"'+getQueryString("state")+'"');
-$("#redirect_uri").text('"'+getQueryString("redirect_uri")+'"');
-var url="arcticcircle://bexonp.github.io/api/github_callback?code="+getQueryString("code")+"&state="+getQueryString("state")+"&redirect_uri="+getQueryString("redirect_uri");
+var code=getQueryString("code");
+var state=getQueryString("state");
+var redirect_uri=getQueryString("redirect_uri");
+$("#code").text('"'+code+'"');
+$("#state").text('"'+state+'"');
+$("#redirect_uri").text('"'+redirect_uri+'"');
+var url="arcticcircle://bexonp.github.io/api/github_callback?code="+code+"&state="+state+"&redirect_uri="+redirect_uri;
 window.location.href=url;
 </script>
 </body>
